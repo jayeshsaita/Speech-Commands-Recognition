@@ -1,0 +1,5 @@
+The saved checkpoint files are more than 100 MB in size.
+
+They can be found here:
+https://drive.google.com/drive/folders/179Axx7Q-J_f0U_ytZAH6v_RG574ZobsK?usp=sharing
+
