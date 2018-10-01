@@ -1,7 +1,7 @@
 # Speech Commands Recognition in PyTorch
 
 This project implements Speech Commands Recognition using Resnet34. The data used is a subset of [Tensorflow Speech Recognition Challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge). It can detect 10 spoken commands (yes, no, on, off, up, down, left, right, go, stop) with an accuracy of 90.4%. It uses techniques like [Stochastic Gradient Descent with Restarts](https://arxiv.org/abs/1608.03983) and [Snapshot Ensembling](https://arxiv.org/abs/1704.00109). The model was trained on Google Colab.
-**Read more about this project on my [blog].(https://towardsdatascience.com/ok-google-how-to-do-speech-recognition-f77b5d7cbe0b)**
+**Read more about this project on my [blog](https://towardsdatascience.com/ok-google-how-to-do-speech-recognition-f77b5d7cbe0b)**.
 
 ### Requirements
 
